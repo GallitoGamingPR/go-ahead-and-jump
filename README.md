@@ -30,5 +30,5 @@ In this project, we will implement jumping and movements to a robot asset. The f
    Finally, we add a script to the asset called `PlayerController` to handle the movement and jumping actions.
     ![Action Map](images/screenshot6.png)
 9. **Layers**
-   We make sure to set a new layer as the ground layer in Edit->Project Settings->Tags & Layers
+   We make sure to set a new layer as the ground layer in Edit->Project Settings->Tags & Layers and set the terrain as the ground layer to detect for our jumping.
     ![Action Map](images/screenshot5.png)
