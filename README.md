@@ -39,7 +39,7 @@ In this project, we will implement jumping and movements to a robot asset. The f
 11. **Testing**
 We test the horizontal movement.
  ![Horizontal](images/gif3.gif)
-Then the jumping.
+The jumping.
  ![Hjumping](images/gif4.gif)
 Then the vertical movement.
  ![Vertical](images/gif5.gif)
