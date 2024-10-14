@@ -47,6 +47,6 @@ The jumping.
 ![Jumping](images/gif4.gif)
 Then the vertical movement.
  ![Vertical](images/gif5.gif)
-Finally the fast horizontal and vertical movement.
+Finally the fast horizontal and fast vertical movement.
  ![Fast](images/gif6.gif)
 
