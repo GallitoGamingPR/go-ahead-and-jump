@@ -28,11 +28,21 @@ In this project, we will implement jumping and movements to a robot asset. The f
 
 7. **Add PlayerController Script**  
    Finally, we add a script to the asset called `PlayerController` to handle the movement and jumping actions.
-    ![Action Map](images/screenshot6.png)
+    ![Script](images/screenshot6.png)
 9. **Layers**
    We make sure to set a new layer as the ground layer in Edit->Project Settings->Tags & Layers and set the terrain as the ground layer to detect for our jumping.
-    ![Action Map](images/screenshot5.png)
-    ![Action Map](images/screenshot7.png)
+    ![Layers](images/screenshot5.png)
+    ![Ground Layer](images/screenshot7.png)
 10. **GroundPoint and ShootPoint**
     We then add two empty objects to our player that will detect the ground and the other will be were our projectiles will shoot out of.
-    ![Action Map](images/screenshot8.png)
+    ![GroundPoint and ShootPoint](images/screenshot8.png)
+11. **Testing**
+We test the horizontal movement.
+ ![Horizontal](images/gif3.gif)
+Then the jumping.
+ ![Hjumping](images/gif4.gif)
+Then the vertical movement.
+ ![Vertical](images/gif5.gif)
+Finally the fast horizontal and vertical movement.
+ ![Fast](images/gif6.gif)
+
