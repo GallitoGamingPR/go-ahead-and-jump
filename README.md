@@ -23,7 +23,7 @@ In this project, we will implement jumping and movements to a robot asset. The f
    ![Premade Actions](images/screenshot3.png)
 
 6. **Add Additional Actions to Action Map**  
-   Then, we add the additional actions to the action map, making sure to select the right values and checking keyboard and mouse or gamepad respectively.
+   Then, we add the additional actions to the action map, making sure to select the right action type, such as axis for up and down, then adding the binding and finally checking keyboard and mouse or gamepad respectively.
    ![Adding](images/gif7.gif)  
    ![Action Map](images/screenshot4.png)
 
