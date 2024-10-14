@@ -28,3 +28,5 @@ In this project, we will implement jumping and movements to a robot asset. The f
 
 7. **Add PlayerController Script**  
    Finally, we add a script to the asset called `PlayerController` to handle the movement and jumping actions.
+8. **Layers**
+   We make sure to set a new layer as the ground layer in Edit->Project Settings->Tags & Layers
