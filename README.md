@@ -37,10 +37,12 @@ In this project, we will implement jumping and movements to a robot asset. The f
     ![Ground Layer](images/screenshot7.png)
    
 11. **GroundPoint and ShootPoint**
+    
     We then add two empty objects to our player that will detect the ground and the other will be were our projectiles will shoot out of.
     ![GroundPoint and ShootPoint](images/screenshot8.png)
     
 13. **Testing**
+    
     We test the horizontal movement.
     
     ![Horizontal](images/gif3.gif)
