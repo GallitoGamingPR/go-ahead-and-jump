@@ -41,12 +41,12 @@ In this project, we will implement jumping and movements to a robot asset. The f
     ![GroundPoint and ShootPoint](images/screenshot8.png)
     
 13. **Testing**
-We test the horizontal movement.
- ![Horizontal](images/gif3.gif)
-The jumping.
-![Jumping](images/gif4.gif)
-Then the vertical movement.
- ![Vertical](images/gif5.gif)
-Finally the fast horizontal and fast vertical movement.
- ![Fast](images/gif6.gif)
+    We test the horizontal movement.
+    ![Horizontal](images/gif3.gif)
+   The jumping.
+   ![Jumping](images/gif4.gif)
+   Then the vertical movement.
+      ![Vertical](images/gif5.gif)
+   Finally the fast horizontal and fast vertical movement.
+    ![Fast](images/gif6.gif)
 
